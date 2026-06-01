@@ -14,6 +14,7 @@ sys.path.append(
 from basicop import *
 from scientificop import *
 from utils import *
+from history import *
 
 # ==============================
 # MENU
