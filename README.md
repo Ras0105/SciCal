@@ -84,7 +84,7 @@ A fully functional Scientific Calculator built using Python and Tkinter with sup
 
 # Project Structure
 
-```text id="5xvb7m"
+```text
 SciCal/
 │
 ├── cli/
@@ -112,7 +112,7 @@ SciCal/
 
 Open terminal inside the `gui` folder:
 
-```bash id="6c7kvt"
+```bash
 python gui.py
 ```
 
@@ -122,7 +122,7 @@ python gui.py
 
 Open terminal inside the `cli` folder:
 
-```bash id="7ytn5r"
+```bash
 python main.py
 ```
 
@@ -132,21 +132,21 @@ python main.py
 
 Install PyInstaller:
 
-```bash id="r2xw5v"
+```bash
 pip install pyinstaller
 ```
 
 Build executable:
 
-```powershell id="2b9zpn"
-& "C:\Users\smt29\AppData\Local\Python\pythoncore-3.14-64\Scripts\pyinstaller.exe" --onefile --windowed gui.py
+```bash
+pyinstaller --onefile --windowed gui.py
 ```
 
 ---
 
 # Output Executable
 
-```text id="8rv3wu"
+```text
 gui/dist/gui.exe
 ```
 
@@ -180,8 +180,10 @@ Add screenshots of:
 B.Tech Information Technology
 Madan Mohan Malaviya University of Technology
 
-```GitHub:```
+### GitHub
+
 https://github.com/Ras0105
 
-```LinkedIn:```
+### LinkedIn
+
 https://www.linkedin.com/in/rasshi-ashish-srivastav/
