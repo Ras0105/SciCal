@@ -180,7 +180,8 @@ Add screenshots of:
 B.Tech Information Technology
 Madan Mohan Malaviya University of Technology
 
-GitHub:
+```GitHub:```
 https://github.com/Ras0105
-LinkedIn:
+
+```LinkedIn:```
 https://www.linkedin.com/in/rasshi-ashish-srivastav/
