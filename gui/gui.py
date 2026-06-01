@@ -3,15 +3,6 @@
 # ==============================
 
 import tkinter as tk
-import sys
-import os
-
-sys.path.append(
-    os.path.dirname(
-        os.path.dirname(__file__)
-    )
-)
-
 from basicop import *
 from scientificop import *
 from utils import *
