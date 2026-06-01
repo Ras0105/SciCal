@@ -276,8 +276,6 @@ for i in range(total_rows):
 row = 0
 col = 0
 
-row = 0
-col = 0
 
 for button in buttons:
 
